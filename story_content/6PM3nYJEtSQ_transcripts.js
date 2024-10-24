@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":416,"text":"Individuals are vulnerable and manipulated into trafficking. "},{"start":6080,"text":"Vulnerabilities can make some people susceptible to trafficking enticements. "},{"start":12512,"text":"Vulnerabilities can be common hardships such as: "},{"start":16236,"text":"poverty, unemployment, disabilities, family abuse."},{"start":21968,"text":"Traffickers know how to use vulnerabilities "},{"start":25572,"text":"to lure victims into labor trafficking or sex trafficking. "},{"start":30996,"text":"Regardless of the type of manipulation, "},{"start":34531,"text":"victims often feel they have no way to break the vicious cycle."}]}]};
+    window.globalLoadJsAsset('story_content/6PM3nYJEtSQ_transcripts.js', JSON.stringify(data));
+})();

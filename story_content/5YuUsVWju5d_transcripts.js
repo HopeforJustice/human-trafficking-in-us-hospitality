@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":112,"text":"Julia was a housekeeper at a roadside motel."},{"start":3563,"text":"She was hired directly by the motel manager years ago."},{"start":7230,"text":"Over the past year,"},{"start":8735,"text":"the motel hired other staff through a subcontracted company."},{"start":13356,"text":"Julia noticed that members of these work crews appeared fearful and avoided eye contact with outsiders. "},{"start":19602,"text":"They arrived together in a van, wearing clean uniforms but looking tired and underfed. "},{"start":25303,"text":"They worked 12-hour shifts and barely spoke—even to each other."},{"start":29888,"text":"Most of them didn’t speak English. "},{"start":32223,"text":"Julia suspected something was going on but wasn’t sure."}]}]};
+    window.globalLoadJsAsset('story_content/5YuUsVWju5d_transcripts.js', JSON.stringify(data));
+})();

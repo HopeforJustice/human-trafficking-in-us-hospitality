@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":150,"text":"Julia’s co-workers were victims of a criminal labor trafficking organization that hired"},{"start":5605,"text":"workers from other countries through lies and false promises. "},{"start":10076,"text":"Law enforcement was eventually able to shut down the organization and rescue victims."},{"start":16510,"text":"Labor traffickers, as in this scenario,"},{"start":19185,"text":"often promise unrealistic wages or jobs that don’t exist."},{"start":24198,"text":"Once the victims are trapped, the traffickers control victims’ identity documents, cell phones,"},{"start":29641,"text":"and money to prevent them from leaving or contacting family."},{"start":34171,"text":"Traffickers often trick victims into thinking they owe the traffickers large amounts of money."},{"start":39830,"text":"Keeping an eye out for labor trafficking in hotels and motels is a simple and critical way"},{"start":46201,"text":"to help prevent this type of trafficking."}]}]};
+    window.globalLoadJsAsset('story_content/6p4kW1ugrzq_transcripts.js', JSON.stringify(data));
+})();
